@@ -1,13 +1,12 @@
-#Maximum of three numbers
+# Largest of three numbers
 
 def findMax(num1,num2,num3):
     if num1>num2 & num1>num3:
-        max = num1
+        return num1
     elif num2>num1 & num2>num3:
-        max = num2
+        return num2
     else:
-        max = num3
-    return max
+        return num3
  
 if __name__ == "__main__":
     num1 = int(input("Enter the first number : "))
