@@ -22,13 +22,15 @@ Basic python algorithms and coding on daily basis.
 
 ### Array Programs:
 
-1.	Python Program to find sum of array
-2.	Python Program to find largest element in an array
-3.	Python Program for array rotation
-4.	Python Program for Reversal algorithm for array rotation
-5.	Python Program to Split the array and add the first part to the end
-6.	Python Program for Find reminder of array multiplication divided by n
-7.	Python Program to check if given array is Monotonic
+|#|Problem Statement|Status|
+| :--- | :--- | :---: |
+|1.	| Python Program to find sum of array ||
+|2.	| Python Program to find largest element in an array||
+|3.	| Python Program for array rotation||
+|4.	| Python Program for Reversal algorithm for array rotation||
+|5.	| Python Program to Split the array and add the first part to the end||
+|6.	| Python Program for Find reminder of array multiplication divided by n||
+|7.	| Python Program to check if given array is Monotonic||
 
 ### List Programs:
 1.	Python program to interchange first and last elements in a list
