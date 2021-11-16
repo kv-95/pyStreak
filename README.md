@@ -5,7 +5,7 @@ Basic python algorithms and coding on daily basis.
 
 |#|Problem Statement|Status|
 | :--- | :--- | :---: |
-|1.	|Maximum of three numbers in Python | | ✅ |
+|1.	|Maximum of three numbers in Python |  ✅ |
 |2.| Python Program for factorial of a number | ✅ |
 |3.|	Python Program for simple interest | ✅ |
 |4.|	Python Program for compound interest | ✅ |
