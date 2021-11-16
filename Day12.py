@@ -1,5 +1,5 @@
 # Python Program for n\’th multiple of a number in Fibonacci Series
-from time import sleep
+
 def findMultiple(n,k):
     a = 0
     b = 1
