@@ -75,7 +75,7 @@ Basic python algorithms and coding on daily basis.
 |2.	| Python program to multiply two matrices||
 |3.	| Python program for Matrix Product||
 |4.	| Adding and Subtracting Matrices in Python||
-|5.	Transpose a matrix in Single line in Python||
+|5.	| Transpose a matrix in Single line in Python||
 |6.	| Python - Matrix creation of n\*n||
 |7.	| Python - Get Kth Column of Matrix||
 |8.	| Python - Vertical Concatenation in Matrix||
