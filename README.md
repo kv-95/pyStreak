@@ -33,46 +33,52 @@ Basic python algorithms and coding on daily basis.
 |7.	| Python Program to check if given array is Monotonic||
 
 ### List Programs:
-1.	Python program to interchange first and last elements in a list
-2.	Python program to swap two elements in a list
-3.	Python | Ways to find length of list
-4.	Python | Ways to check if element exists in list
-5.	Different ways to clear a list in Python
-6.	Python | Reversing a List
-7.	Python program to find sum of elements in list
-8.	Python | Multiply all numbers in the list
-9.	Python program to find smallest number in a list
-10.	Python program to find largest number in a list
-11.	Python program to find second largest number in a list
-12.	Python program to find N largest elements from a list
-13.	Python program to print even numbers in a list
-14.	Python program to print odd numbers in a List
-15.	Python program to print all even numbers in a range
-16.	Python program to print all odd numbers in a range
-17.	Python program to print positive numbers in a list
-18.	Python program to print negative numbers in a list
-19.	Python program to print all positive numbers in a range
-20.	Python program to print all negative numbers in a range
-21.	Remove multiple elements from a list in Python
-22.	Python – Remove empty List from List
-23.	Python | Cloning or Copying a list
-24.	Python | Count occurrences of an element in a list
-25.	Python | Remove empty tuples from a list
-26.	Python | Program to print duplicates from a list of integers
-27.	Python program to find Cumulative sum of a list
-28.	Python | Sum of number digits in List
-29.	Break a list into chunks of size N in Python
-30.	Python | Sort the values of first list using second list
+
+|#|Problem Statement|Status|
+| :--- | :--- | :---: |
+|1.	| Python program to interchange first and last elements in a list||
+|2.	| Python program to swap two elements in a list||
+|3.	| Python - Ways to find length of list||
+|4.	| Python - Ways to check if element exists in list||
+|5.	| Different ways to clear a list in Python||
+|6.	| Python - Reversing a List||
+|7.	| Python program to find sum of elements in list||
+|8.	| Python - Multiply all numbers in the list||
+|9.	| Python program to find smallest number in a list||
+|10.	| Python program to find largest number in a list||
+|11.	| Python program to find second largest number in a list||
+|12.	| Python program to find N largest elements from a list||
+|13.	| Python program to print even numbers in a list||
+|14.	| Python program to print odd numbers in a List||
+|15.	| Python program to print all even numbers in a range||
+|16.	| Python program to print all odd numbers in a range||
+|17.	| Python program to print positive numbers in a list||
+|18.	| Python program to print negative numbers in a list||
+|19.	| Python program to print all positive numbers in a range||
+|20.	| Python program to print all negative numbers in a range||
+|21.	| Remove multiple elements from a list in Python||
+|22.	| Python – Remove empty List from List||
+|23.	| Python - Cloning or Copying a list||
+|24.	| Python - Count occurrences of an element in a list||
+|25.	| Python - Remove empty tuples from a list||
+|26.	| Python - Program to print duplicates from a list of integers||
+|27.	| Python program to find Cumulative sum of a list||
+|28.	| Python - Sum of number digits in List||
+|29.	| Break a list into chunks of size N in Python||
+|30.	| Python - Sort the values of first list using second list||
 
 ### Matrix Programs:
-1.	Python program to add two Matrices
-2.	Python program to multiply two matrices
-3.	Python program for Matrix Product
-4.	Adding and Subtracting Matrices in Python
-5.	Transpose a matrix in Single line in Python
-6.	Python | Matrix creation of n\*n
-7.	Python | Get Kth Column of Matrix
-8.	Python – Vertical Concatenation in Matrix
+
+|#|Problem Statement|Status|
+| :--- | :--- | :---: |
+|1.	| Python program to add two Matrices||
+|2.	| Python program to multiply two matrices||
+|3.	| Python program for Matrix Product||
+|4.	| Adding and Subtracting Matrices in Python||
+|5.	Transpose a matrix in Single line in Python||
+|6.	| Python - Matrix creation of n\*n||
+|7.	| Python - Get Kth Column of Matrix||
+|8.	| Python - Vertical Concatenation in Matrix||
 
 ### String Programs:
 1.	Python program to check if a string is palindrome or not
