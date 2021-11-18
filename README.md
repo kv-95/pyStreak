@@ -17,7 +17,7 @@ Basic python algorithms and coding on daily basis.
 |10.|	Python Program for How to check if a given number is Fibonacci number? | ✅ |
 |11.|	Python Program for n\’th multiple of a number in Fibonacci Series | ✅ |
 |12.|	Program to print ASCII Value of a character | ✅ |
-|13.|	Python Program for Sum of squares of first n natural numbers ||
+|13.|	Python Program for Sum of squares of first n natural numbers |✅|
 |14.|	Python Program for cube sum of first n natural numbers ||
 
 ### Array Programs:
